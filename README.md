@@ -1,6 +1,28 @@
-# 💫 About Me:
-## 👋 Hi, I'm Le0wang06<br>I'm a developer focused on **web and mobile development**, currently working with **React, React Native, and backend technologies**. I'm passionate about building efficient, user-friendly applications and continuously improving my skills.<br><br>### 🔹 Current Projects:<br>- **Moodsaver** – A mood tracking and wellness app built with React Native.<br>- **Personal Portfolio** – Developing a custom portfolio website to showcase my work.<br><br>### 🛠️ Tech Stack:<br>- **Frontend:** React, React Native, Tailwind CSS  <br>- **Backend:** Node.js, Express  <br>- **Database:** MongoDB, Firebase  <br>- **Tools:** Git, VS Code, Figma  <br><br>### 📌 Goals:<br>- Improve proficiency in **JavaScript & TypeScript**  <br>- Optimize mobile app performance  <br>- Contribute to open-source projects  <br><br>📫 **Let's Connect!** Feel free to check out my repositories or collaborate on projects.  <br>
+👋 Hi, I'm Le0wang06
 
+🚀 Web Developer | 🔐 Cybersecurity Enthusiast | 🤖 Exploring AI & APIs
+
+I specialize in web and mobile development, working with React, React Native, and backend technologies. I'm also diving into AI, APIs, and cybersecurity, aiming to build efficient, secure, and intelligent applications.
+
+🔹 Current Projects
+
+📱 Moodsaver – A mood tracking and wellness app built with React Native. 🌐 Personal Portfolio – Developing a custom portfolio website to showcase my work.
+
+🛠️ Tech Stack
+
+💻 Frontend: React, React Native, Tailwind CSS
+🛠️ Backend: Node.js, Express, C++, Java
+📦 Database: MongoDB, Firebase
+🔍 Cybersecurity & AI: Python, APIs, Ethical Hacking Basics
+🛠 Tools: Git, VS Code, Figma
+
+🎯 Learning & Goals
+
+✅ Deepen knowledge in AI & APIs for intelligent app development
+✅ Strengthen cybersecurity skills, focusing on penetration testing & security analysis
+✅ Contribute to open-source security and AI projects
+
+📫 Let's Connect! Check out my repositories or reach out for collaboration!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leo-wang-2b41a4309/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/x1angNFT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:098leowang@gmail.com) 

@@ -11,15 +11,21 @@ I specialize in web and mobile development, working with React, React Native, an
 🛠️ Tech Stack
 
 💻 Frontend: React, React Native, Tailwind CSS
+
 🛠️ Backend: Node.js, Express, C++, Java
+
 📦 Database: MongoDB, Firebase
+
 🔍 Cybersecurity & AI: Python, APIs, Ethical Hacking Basics
+
 🛠 Tools: Git, VS Code, Figma
 
 🎯 Learning & Goals
 
 ✅ Deepen knowledge in AI & APIs for intelligent app development
+
 ✅ Strengthen cybersecurity skills, focusing on penetration testing & security analysis
+
 ✅ Contribute to open-source security and AI projects
 
 📫 Let's Connect! Check out my repositories or reach out for collaboration!

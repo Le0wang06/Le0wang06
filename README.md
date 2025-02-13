@@ -1,16 +1,25 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi, I’m Le0wang06
+I’m a developer focused on web and mobile development, currently working with React, React Native, and backend technologies. I’m passionate about building efficient, user-friendly applications and continuously improving my skills.
 
-<!--
-**Le0wang06/Le0wang06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Current Projects:
+- Moodsaver – A mood tracking and wellness app built with React Native.
+- Personal Portfolio – Developing a custom portfolio website to showcase my work.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- Frontend: React, React Native, Tailwind CSS
+- Backend: Node.js, Express
+- Database: MongoDB, Firebase
+- Tools: Git, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Goals:
+- Improve proficiency in JavaScript & TypeScript
+- Optimize mobile app performance
+- Contribute to open-source projects
+
+📫 Let’s Connect! Feel free to check out my repositories or collaborate on projects.
+🌐 Socials:
+LinkedIn X email
+
+💻 Tech Stack:
+Vultr Google Cloud C++ CSS3 HTML5 Java JavaScript Python R CSS3 Adobe Trello

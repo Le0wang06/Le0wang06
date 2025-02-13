@@ -8,27 +8,31 @@ I specialize in web and mobile development, working with React, React Native, an
 
 📱 Moodsaver – A mood tracking and wellness app built with React Native. 🌐 Personal Portfolio – Developing a custom portfolio website to showcase my work.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-💻 Frontend: React, React Native, Tailwind CSS
+💻 **Frontend:** React, React Native, Tailwind CSS  
 
-🛠️ Backend: Node.js, Express, C++, Java
+🛠️ **Backend:** Node.js, Express, C++, Java  
 
-📦 Database: MongoDB, Firebase
+📦 **Database:** MongoDB, Firebase  
 
-🔍 Cybersecurity & AI: Python, APIs, Ethical Hacking Basics
+🔍 **Cybersecurity & AI:** Python, APIs, Ethical Hacking Basics  
 
-🛠 Tools: Git, VS Code, Figma
+🛠 **Tools:** Git, VS Code, Figma  
 
-🎯 Learning & Goals
 
-✅ Deepen knowledge in AI & APIs for intelligent app development
+## 🎯 Learning & Goals  
 
-✅ Strengthen cybersecurity skills, focusing on penetration testing & security analysis
+✅ Deepen knowledge in AI & APIs for intelligent app development  
 
-✅ Contribute to open-source security and AI projects
+✅ Strengthen cybersecurity skills, focusing on penetration testing & security analysis  
 
-📫 Let's Connect! Check out my repositories or reach out for collaboration!
+✅ Contribute to open-source security and AI projects  
+
+
+## 📫 Let's Connect!  
+
+Check out my repositories or reach out for collaboration!  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leo-wang-2b41a4309/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/x1angNFT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:098leowang@gmail.com) 

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Le0wang06  
+# 👋 Hi, I'm Leo Wang
 
 🚀 Web Developer | 🔐 Cybersecurity Enthusiast | 🤖 Exploring AI & APIs
 

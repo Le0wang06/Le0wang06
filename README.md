@@ -10,15 +10,15 @@ I specialize in web and mobile development, working with React, React Native, an
 
 ## 🛠️ Tech Stack  
 
-💻 **Frontend:** React, React Native, Tailwind CSS  
+💻 **Frontend:** React, React Native, Tailwind CSS, HTML , Webflow
 
-🛠️ **Backend:** Node.js, Express, C++, Java  
+🛠️ **Backend:** Node.js, Express, C++, Java 
 
 📦 **Database:** MongoDB, Firebase  
 
 🔍 **Cybersecurity & AI:** Python, APIs, Ethical Hacking Basics  
 
-🛠 **Tools:** Git, VS Code, Figma  
+🛠 **Tools:** Git, VS Code, Figma Vultr
 
 
 ## 🎯 Learning & Goals  

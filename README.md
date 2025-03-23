@@ -2,11 +2,11 @@
 
 🚀 Web Developer | 🔐 Cybersecurity Enthusiast | 🤖 Exploring AI & APIs
 
-I specialize in web and mobile development, working with React, React Native, and backend technologies. I'm also diving into AI, APIs, and cybersecurity, aiming to build efficient, secure, and intelligent applications.
+I specialize in web development, working with React, html, css, javascript, and backend technologies. I'm also diving into AI, APIs, and cybersecurity, aiming to build efficient, secure, and intelligent applications.
 
 🔹 Current Projects
 
-📱 Moodsaver – A mood tracking and wellness app built with React Native. 🌐 Personal Portfolio – Developing a custom portfolio website to showcase my work.
+📱 Moodsaver – A mood tracking and wellness app built with React Native. "AI Tutor" - Developing a tutor with a heart that uses Ai Apis and Technologies 🌐 Personal Portfolio – Developing a custom portfolio website to showcase my work.
 
 ## 🛠️ Tech Stack  
 

@@ -20,7 +20,6 @@ I specialize in web development, working with React, html, css, javascript, and 
 
 🛠 **Tools:** Git, VS Code, Figma Vultr
 
-
 ## 🎯 Learning & Goals  
 
 ✅ Deepen knowledge in AI & APIs for intelligent app development  

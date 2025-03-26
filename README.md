@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leo Wang
 
-🚀 Web Developer | 🔐 Cybersecurity Enthusiast | 🤖 Exploring AI & APIs
+🚀 Front-end Developer | 🔐 Cybersecurity Enthusiast | 🤖 Exploring AI & APIs | The Data Engineer in Disguise :)
 
 I specialize in web development, working with React, html, css, javascript, and backend technologies. I'm also diving into AI, APIs, and cybersecurity, aiming to build efficient, secure, and intelligent applications.
 

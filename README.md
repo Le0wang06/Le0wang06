@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdkYXRxYmxjOTlndnRtY3U4YWppdGd5OHNycG5qdXFwcmxocXprZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="About Me" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Leo Wang</h1>

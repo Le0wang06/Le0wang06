@@ -1,14 +1,14 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" height="300" style="object-fit: cover;"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Leo Wang</h1>
 
 <p align="center">
   Full-stack developer · AI explorer · Cybersecurity enthusiast<br>
-  Building cool stuff with code, APIs, and curiosity ⚡
+  Building cool stuff with code, APIs, and curiosity ⚡<br>
   Always trying to learn something cool and new
 </p>
 
@@ -31,3 +31,26 @@
 ⚙️ Frameworks: React · React Native · Express · Next.js
 🧠 AI Tools: Hugging Face · Deepseek API · LangChain
 🛠️ Dev Tools: VS Code · Git · Postman · Trello · Figma · Webflow
+```
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leowang-dev&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowang-dev&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### 💬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leowang-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-ff69b4?style=for-the-badge)](#)
+
+---
+
+<p align="center">
+  <i>“Code is poetry. Let’s build something beautiful.”</i>
+</p>

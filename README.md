@@ -36,9 +36,10 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&hide=stars&theme=transparent&border_radius=16&rank_icon=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0wang06&layout=compact&theme=transparent&border_radius=16" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&hide=stars&theme=github_light&border_radius=12&rank_icon=percentile" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0wang06&layout=compact&theme=github_light&border_radius=12" height="180"/>
 </p>
+
 
 ---
 

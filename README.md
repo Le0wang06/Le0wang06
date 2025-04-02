@@ -42,13 +42,3 @@
 
 ---
 
-### 💬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leowang-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-ff69b4?style=for-the-badge)](#)
-
----
-
-<p align="center">
-  <i>“Code is poetry. Let’s build something beautiful.”</i>
-</p>

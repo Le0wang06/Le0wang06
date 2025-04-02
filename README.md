@@ -16,8 +16,8 @@
 
 ```bash
 💻 Languages: JavaScript· Python · HTML/CSS · C++  · Java
-⚙️ Frameworks: React · React Native · Next.js
-🧠 AI Tools: Hugging Face · Deepseek API ·
+⚙️ Frameworks: React · React Native 
+🧠 AI Tools: Hugging Face · Deepseek API ·OpenAI
 🛠️ Dev Tools: VS Code · Git · Postman · Trello · Figma · Webflow
 ```
 

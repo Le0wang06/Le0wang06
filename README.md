@@ -36,7 +36,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Le0wang06" alt="Leo Wang's GitHub chart" />
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Happy Coding" width="500"/>
 </p>
 ---
 

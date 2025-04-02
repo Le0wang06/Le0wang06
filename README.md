@@ -36,7 +36,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Happy Coding" width="500"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Le0wang06&theme=tokyo-night" alt="Leo Wang's GitHub Activity Graph"/>
 </p>
 ---
 

@@ -36,9 +36,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Le0wang06&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://raw.githubusercontent.com/Le0wang06/Le0wang06/main/assets/contribution-graph.png" alt="My Contributions"/>
 </p>
-
 
 ---
 

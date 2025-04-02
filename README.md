@@ -25,8 +25,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&hide=stars&theme=github_light&border_radius=12&rank_icon=percentile&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=10" height="180](https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&theme=github_light
-)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&hide=stars&theme=github_light&border_radius=12&rank_icon=percentile" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0wang06&layout=compact&theme=github_light&border_radius=12" height="180"/>
 </p>
 

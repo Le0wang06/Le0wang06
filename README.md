@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm Leo Wang</h1>
 
 <p align="center">
-  18 y/o Engineering Student from University of Waterloo
+  18 y/o Engineering Student from University of Waterloo<br>
   Full-stack developer · AI explorer · Cybersecurity enthusiast<br>
   Building cool stuff with code, APIs, and curiosity ⚡<br>
 </p>

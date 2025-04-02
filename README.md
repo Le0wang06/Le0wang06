@@ -11,6 +11,7 @@
   Building cool stuff with code, APIs, and curiosity ⚡<br>
 </p>
 
+---
 ### 🧰 Tech Stack
 
 ```bash

@@ -36,7 +36,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Le0wang06&theme=tokyo-night" alt="Leo Wang's GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&hide=stars&theme=transparent&border_radius=16&rank_icon=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0wang06&layout=compact&theme=transparent&border_radius=16" height="180"/>
 </p>
+
 ---
 

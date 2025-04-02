@@ -36,9 +36,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Le0wang06&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le0wang06&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Le0wang06&theme=radical" alt="GitHub Profile Summary"/>
 </p>
+
 
 ---
 

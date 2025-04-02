@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 18 y/o Engineering Student from University of Waterloo
-- 🧠 Currently diving deep into **AI, cybersecurity, and APIs**
+- 🧠 Currently diving deep into **AI, cybersecurity, APIs and App Building**
 - 🛠️ Tools I use: `React Native`, `Webflow`, `Node.js`, `Deepseek`, `Trello`
 - 🎮 Making games & experimenting with AI projects on the side
 - 🌐 Portfolio coming soon... stay tuned!

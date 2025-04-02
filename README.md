@@ -8,7 +8,6 @@
 <p align="center">
   Full-stack developer · AI explorer · Cybersecurity enthusiast<br>
   Building cool stuff with code, APIs, and curiosity ⚡<br>
-  Always trying to learn something cool and new
 </p>
 
 ---

@@ -37,8 +37,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leowang-dev&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowang-dev&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leowang-dev&theme=radical" alt="GitHub Streak Stats" height="200"/>
 </p>
 
 ---

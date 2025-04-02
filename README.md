@@ -6,21 +6,10 @@
 <h1 align="center">Hi there 👋 I'm Leo Wang</h1>
 
 <p align="center">
+  18 y/o Engineering Student from University of Waterloo
   Full-stack developer · AI explorer · Cybersecurity enthusiast<br>
   Building cool stuff with code, APIs, and curiosity ⚡<br>
 </p>
-
----
-
-### 🚀 About Me
-
-- 🎓 18 y/o Engineering Student from University of Waterloo
-- 🧠 Currently diving deep into **AI, cybersecurity, APIs and App Building**
-- 🛠️ Tools I use: `React Native`, `Webflow`, `Node.js`, `Deepseek`, `Trello`
-- 🎮 Making games & experimenting with AI projects on the side
-- 🌐 Portfolio coming soon... stay tuned!
-
----
 
 ### 🧰 Tech Stack
 

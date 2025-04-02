@@ -36,7 +36,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Le0wang06/Le0wang06/main/assets/contribution-graph.png" alt="My Contributions"/>
+  <img src="https://ghchart.rshah.org/Le0wang06" alt="Leo Wang's GitHub chart"/>
 </p>
 
 ---

@@ -15,8 +15,8 @@
 ### 🧰 Tech Stack
 
 ```bash
-💻 Languages: JavaScript· Python · HTML/CSS · C++  · Java
-⚙️ Frameworks: React · React Native 
+💻 Languages: JavaScript· Python · HTML/CSS · C++  · Java · MySQL
+⚙️ Frameworks: React · Next.js · Flask
 🧠 AI Tools: Hugging Face · Deepseek API ·OpenAI
 🛠️ Dev Tools: VS Code · Git · Postman · Trello · Figma · Webflow
 ```

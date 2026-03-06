@@ -8,7 +8,7 @@
 
 <p align="center">
   Systems Design Engineering @ University of Waterloo<br>
-  Former Shopify Intern · Full-stack Developer · Builder<br>
+  Former Shopify Engineering Intern · Full-stack Developer · Builder<br>
   Interested in AI, Systems, Cybersecurity & Startups ⚡
 </p>
 
@@ -17,10 +17,10 @@
 ### 🚀 About Me
 
 - 🎓 Systems Design Engineering student at **University of Waterloo**
-- 💼 Former **Shopify Engineering Intern** (Shipping & Taxes team)
-- 🧠 Passionate about **AI systems, cybersecurity, and scalable software**
-- ⚡ I enjoy building **products, tools, and experiments**
-- 🛠️ Currently working on **AI tools, hardware projects, and developer utilities**
+- 💼 Former **Shopify Engineering Intern**
+- 🧠 Interested in **AI systems, cybersecurity, and scalable infrastructure**
+- ⚡ I enjoy building **developer tools, AI-powered apps, and hardware projects**
+- 🛠️ Currently exploring **AI integrations, automation tools, and system design**
 
 ---
 
@@ -28,13 +28,13 @@
 
 ```bash
 💻 Languages
-JavaScript · Python · C++ · Java · SQL · HTML/CSS
+JavaScript · TypeScript · Python · C++ · Java · SQL · HTML/CSS
 
-⚙️ Frameworks & Libraries
-React · Next.js · Flask · Node.js
+⚙️ Frameworks & Backend
+React · Next.js · Flask · Node.js · Ruby on Rails
 
-🧠 AI / APIs
-OpenAI · Hugging Face · DeepSeek API · REST APIs
+🧠 AI / LLM Tools
+OpenAI · Claude · Perplexity · Hugging Face · DeepSeek API
 
 🛠️ Developer Tools
 Git · VS Code · Postman · Docker · Figma · Webflow

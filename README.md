@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer Vibes" width="600"/>
+  <img src="oogabooga.gif" alt="Developer Vibes" width="600"/>
 </p>
 <h1 align="center">Hi there 👋 I'm Leo Wang</h1>
 

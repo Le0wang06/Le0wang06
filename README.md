@@ -17,5 +17,5 @@ Systems Design Engineering @ Waterloo · prev. engineering intern @ Shopify
 - [Focus Intent](https://github.com/Le0wang06/focus-intent) — a Chrome extension to get you back to what you opened your browser for.
 
 <p>
-  <img src="oogabooga.gif" alt="Pixel-art arcade room with Pac-Man at a game cabinet." width="100%">
+  <img src="assets/leo-pixel-room.png" alt="Pixel-art Leo with curly dark hair and glasses at a coding desk, with a city view and a purple arcade cabinet." width="100%">
 </p>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leo’s room animation source</title>
+<style>
+  html, body { margin: 0; background: #100e1b; }
+  svg { display: block; width: 100%; height: auto; }
+  @media (prefers-reduced-motion: reduce) { #motion { display: none; } }
+</style>
+<!--
+  Editable overlay source for assets/leo-room-collectibles.gif.
+  The illustration is generated artwork; only these small light effects move.
+  Capture 32 frames at 1672 × 941, deviceScaleFactor 1, every 0.15 seconds.
+  Pause the SVG timeline, then call setCurrentTime(frame * 0.15) per capture.
+  Frame-assembly instructions are in encode-room-gif.mjs.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 941" role="img" aria-labelledby="title">
+  <title id="title">Leo coding beside tennis gear, retro games, Starry Night and an F1 display</title>
+  <image href="../assets/leo-room-collectibles.png" width="1672" height="941"/>
+  <g id="motion" shape-rendering="crispEdges">
+    <!-- A slow warm breath confined to the Boo lamp’s silhouette. -->
+    <path d="M159 57H211V63H223V76H232V96H241V113H231V128H221V141H211V148H164V142H151V128H141V119H131V107H146V87H151V69H159Z" fill="#ffd58b" opacity=".03">
+      <animate attributeName="opacity" values=".03;.18;.03" dur="4.8s" repeatCount="indefinite"/>
+    </path>
+    <!-- The painting’s stars shimmer gently, never flash. -->
+    <g fill="#ffe3a0" opacity=".12">
+      <path d="M61 238H66V251H61ZM57 242H70V247H57Z"/>
+      <path d="M232 289H236V299H232ZM229 292H239V296H229Z"/>
+      <animate attributeName="opacity" values=".12;.52;.12" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+    <g fill="#ffe3a0" opacity=".4">
+      <path d="M207 248H211V258H207ZM204 251H214V255H204Z"/>
+      <animate attributeName="opacity" values=".4;.08;.4" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+    <!-- Quiet warm display-case LEDs below the F1 poster. -->
+    <path d="M1204 456H1388V458H1204Z" fill="#ffb556" opacity=".12">
+      <animate attributeName="opacity" values=".12;.46;.12" dur="4.8s" repeatCount="indefinite"/>
+    </path>
+    <!-- A tiny pixel meteor stays completely inside the arcade screen. -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;.8;.8;0;0" keyTimes="0;.2;.3;.6;.75;1" dur="4.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="1542 452;1468 476" dur="4.8s" repeatCount="indefinite"/>
+      <path d="M0 0H4V4H0Z" fill="#d4ffff"/>
+      <path d="M5 -2H9V1H5Z" fill="#88c8ed" opacity=".65"/>
+      <path d="M10 -4H14V-1H10Z" fill="#88c8ed" opacity=".3"/>
+    </g>
+    <!-- A relaxed terminal caret, not a full-screen flicker. -->
+    <path d="M323 605H331V608H323Z" fill="#9de6ec" opacity=".15">
+      <animate attributeName="opacity" values=".15;.75;.15" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
+</html>

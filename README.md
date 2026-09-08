@@ -15,10 +15,10 @@ Systems Design Engineering @ Waterloo · prev. 2x engineering intern @ Shopify
 - [Focus Intent](https://github.com/Le0wang06/focus-intent) — a Chrome extension to get you back to what you opened your browser for.
 
 <p>
-  <a href="assets/leo-room-collectibles.png" title="Open a still version of Leo's room">
+  <a href="assets/leo-mac-room.png" title="Open a still version of Leo's room">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/leo-room-collectibles.png">
-      <img src="assets/leo-room-collectibles.gif" alt="Pixel-art Leo with curly hair and glasses focused on his computer, surrounded by tennis gear, a Boo lamp, retro games, Starry Night, and a big F1 display." width="100%">
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/leo-mac-room.png">
+      <img src="assets/leo-mac-room.gif" alt="Pixel-art Leo with curly hair and glasses focused on a clean Mac setup, with a tennis racket, Boo lamp, retro games, Starry Night, and a big F1 display in the room." width="100%">
     </picture>
   </a>
 </p>

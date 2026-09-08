@@ -8,8 +8,6 @@
 
 Systems Design Engineering @ Waterloo · prev. engineering intern @ Shopify
 
-**building stuff i'd actually use.**
-
 ## side quests 🛠️
 
 - [Tilde](https://github.com/Le0wang06/Tilde) — keep tabs on your AI agents, spend, and pending decisions from the macOS menu bar.

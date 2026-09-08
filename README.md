@@ -10,7 +10,7 @@ Systems Design Engineering @ Waterloo · prev. engineering intern @ Shopify
 
 **building stuff i'd actually use.**
 
-## a few side quests 🛠️
+## side quests 🛠️
 
 - [Tilde](https://github.com/Le0wang06/Tilde) — keep tabs on your AI agents, spend, and pending decisions from the macOS menu bar.
 - [Screen Translation Workspace](https://github.com/Le0wang06/screen-translation-workspace) — turn product screenshots into translated screens and editable steps.

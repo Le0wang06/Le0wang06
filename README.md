@@ -6,17 +6,15 @@
   </picture>
 </h1>
 
-Hi, I'm Leo. I study Systems Design Engineering at the University of Waterloo and previously interned in engineering at Shopify.
+Systems Design Engineering @ Waterloo · prev. engineering intern @ Shopify
 
-I like building useful tools across AI, systems, and product.
+**building stuff i'd actually use.**
 
-## Selected work
+## a few side quests 🛠️
 
-- [Tilde](https://github.com/Le0wang06/Tilde) — AI agent activity, spend, and decisions in the macOS menu bar.
-- [Screen Translation Workspace](https://github.com/Le0wang06/screen-translation-workspace) — Turn product screenshots into organized, editable translation steps.
-- [Focus Intent](https://github.com/Le0wang06/focus-intent) — A Chrome extension that brings your attention back to the task you intended.
-
-Say hello: [LinkedIn](https://www.linkedin.com/in/leo-wang-2b41a4309/) · [X](https://x.com/x1angNFT)
+- [Tilde](https://github.com/Le0wang06/Tilde) — keep tabs on your AI agents, spend, and pending decisions from the macOS menu bar.
+- [Screen Translation Workspace](https://github.com/Le0wang06/screen-translation-workspace) — turn product screenshots into translated screens and editable steps.
+- [Focus Intent](https://github.com/Le0wang06/focus-intent) — a Chrome extension to get you back to what you opened your browser for.
 
 <p>
   <img src="oogabooga.gif" alt="Pixel-art arcade room with Pac-Man at a game cabinet." width="100%">

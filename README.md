@@ -15,10 +15,10 @@ Systems Design Engineering @ Waterloo · prev. 2x engineering intern @ Shopify
 - [Focus Intent](https://github.com/Le0wang06/focus-intent) — a Chrome extension to get you back to what you opened your browser for.
 
 <p>
-  <a href="assets/leo-godzilla-light-hoodie.png" title="Open a still version of Leo's room">
+  <a href="assets/leo-retro-record-room.png" title="Open a still version of Leo's room">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="assets/leo-godzilla-light-hoodie.png">
-      <img src="assets/leo-godzilla-light-hoodie.png" alt="Pixel-art Leo in a light grey hoodie with the hood up and glasses, coding at a Mac beside a framed Kermit meme. Tennis gear, Boo, Starry Night, and F1 decorate the room while Godzilla destroys the city outside." width="100%">
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/leo-retro-record-room.png">
+      <img src="assets/leo-retro-record-room.png" alt="Pixel-art Leo in a light grey hoodie with the hood up and glasses, coding at a Mac beside a framed Kermit meme. A retro record player, vinyl collection, tennis gear, Boo, Starry Night, and F1 decorate the room while Godzilla destroys the city outside." width="100%">
     </picture>
   </a>
 </p>

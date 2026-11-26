@@ -6,7 +6,7 @@
   </picture>
 </h1>
 
-Systems Design Engineering @ Waterloo · prev. 2x engineering intern @ Shopify
+Systems Design Engineering @ Waterloo · SWE @ StackAdapt · prev. 2x engineering intern @ Shopify
 
 ## side quests 🛠️
 
